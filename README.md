@@ -12,16 +12,17 @@
 - MacOS
 - Linux (Ubuntu, Fedora) 
 
-### Cloud Computing:
+### Other Tools:
 - AWS
 - Google Cloud
-
-### Data:
+- Google BigQuery
 - MariaDB
 - MongoDB
 - MySQL
 - Numpy
 - Pandas
+- Plotly
+- Seaborn
 
 ## Welcome to GitHub Pages
 
