@@ -4,7 +4,13 @@
 - Python
 - Java
 - PHP
+- SQL
 - C++
+
+### OS:
+- Windows OS
+- MacOS
+- Linux (Ubuntu, Fedora) 
 
 ### Cloud Computing:
 - AWS
@@ -16,11 +22,6 @@
 - MySQL
 - Numpy
 - Pandas
-
-### OS:
-- Windows OS
-- MacOS
-- Linux (Ubuntu, Fedora) 
 
 ## Welcome to GitHub Pages
 
