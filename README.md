@@ -1,4 +1,4 @@
-- [About Me](# About Me)
+- [About Me](#AboutMe)
   * [Sub-heading](#sub-heading)
     + [Sub-sub-heading](#sub-sub-heading)
 - [Heading](#heading-1)
@@ -9,7 +9,7 @@
     + [Sub-sub-heading](#sub-sub-heading-2)
 
 
-# About Me
+#AboutMe
 
 ```markdown
 Hello!
