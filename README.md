@@ -1,5 +1,13 @@
 # Techinical Skills
 
+| Programming Languages  | Cloud Computing | Data | OS| WebDev|
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| Python  | AWS  | MariaDB  | WindowsOS  | Django  |
+| Java  | Google Cloud | MongoDB | MacOS | Laravel |
+| PHP  |   | MySQL | Fedora  |   |
+| C++  |   | Numpy  | Ubuntu  |   |
+| C++  |   | Pandas  |  |   |
+
 ### Programming Languages:
 - Python
 - Java
