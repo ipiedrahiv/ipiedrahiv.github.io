@@ -1,18 +1,9 @@
-- [About Me](#AboutMe)
-  * [Sub-heading](#sub-heading)
-    + [Sub-sub-heading](#sub-sub-heading)
-- [Heading](#heading-1)
-  * [Sub-heading](#sub-heading-1)
-    + [Sub-sub-heading](#sub-sub-heading-1)
-- [Heading](#heading-2)
-  * [Sub-heading](#sub-heading-2)
-    + [Sub-sub-heading](#sub-sub-heading-2)
-
-
-# AboutMe
+# About Me
 
 ```markdown
 Hello!
+
+I'm a computer science student at EAFIT. My favourite book is The Name of The Wind, by Patrick Rothfuss. And I happen to be the owner of the best cat on EArth, her name it Motita.
 
 ```
 
